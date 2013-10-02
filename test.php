@@ -1,5 +1,5 @@
 <?php
- $kata=" ww makan nasi\ndi rumah saya pada hari. kamis tempat";
+ $kata=" ww makan nasi di rumah saya pada hari. kamis tempat";
   
 
     $remove = array("\n", "\r\n", "\r", "  ");
